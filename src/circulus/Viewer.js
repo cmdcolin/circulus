@@ -1,11 +1,25 @@
 define([
-	"dojo/_base/declare", "dijit/_WidgetBase","dojox/gfx",
-	"dojo/dom-construct","dojo/_base/lang", "dojo/dom-geometry","dojo/dom-style",
-	"dojo/topic","dojox/gfx/utils","dojo/when"
+	"dojo/_base/declare",
+    "dijit/_WidgetBase",
+    "dojox/gfx",
+	"dojo/dom-construct",
+    "dojo/_base/lang",
+    "dojo/dom-geometry",
+    "dojo/dom-style",
+	"dojo/topic",
+    "dojox/gfx/utils",
+    "dojo/when"
 ],function(
-	declare,WidgetBase,gfx,
-	domConstruct,lang,domGeometry,domStyle,
-	Topic,gfxUtils,when
+	declare,
+    WidgetBase,
+    gfx,
+	domConstruct,
+    lang,
+    domGeometry,
+    domStyle,
+	Topic,
+    gfxUtils,
+    when
 ){
 
 	var idx=1;

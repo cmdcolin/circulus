@@ -1,0 +1,22 @@
+{
+  "name": "circulus",
+  "homepage": "https://github.com/dmachi/circulus",
+  "authors": [
+    "Colin <colin.diesh@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dojo": "^1.11.2",
+    "dijit": "^1.11.2",
+    "dojox": "^1.11.2"
+  }
+}
