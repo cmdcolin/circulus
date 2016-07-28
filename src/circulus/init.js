@@ -1,10 +1,10 @@
-require( {
-           packages: [
-               'dbind',
-               'dijit',
-               'dgrid',
-               'dojo',
-               'dojox',
-               'circulus'
-           ]
+require({
+    packages: [
+        'dbind',
+        'dijit',
+        'dgrid',
+        'dojo',
+        'dojox',
+        'circulus'
+    ]
 });
